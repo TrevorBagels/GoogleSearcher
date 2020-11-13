@@ -1,7 +1,7 @@
 # GoogleSearcher
 Searches the web for a search term, then clicks the specified link.
 
-##Usage
+## Usage
 `git clone https://github.com/TrevorBagels/GoogleSearcher.git`
 `cd GoogleSearcher`
 Edit the config file to suit your preferences
